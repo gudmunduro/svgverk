@@ -1,0 +1,13 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #212121;
+}
+
+#containerSvg {
+    display: block;
+    width: 400px;
+    height: 600px;
+    margin: 120px auto;
+}
